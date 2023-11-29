@@ -1,4 +1,4 @@
-# Java Dates
+# Cvičení 14 - Java Dates
 
 ## java.util.Date
   - System.currentTimeMillis();
