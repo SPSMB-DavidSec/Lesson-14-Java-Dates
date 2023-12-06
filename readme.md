@@ -4,7 +4,7 @@
 Legacy (Java 1.8.+) používá se zejména z důvodu zpětné kompatibility starších verzí. Pro nové aplikace je doporučeno použít třídy z balíčku java.time.*
   - System.currentTimeMillis();
   -  new Date();
-  - Formátování datumů pomocí DateFormat + date.format()
+  - Formátování datumů pomocí DateFormat + date.format() [Date formats](https://help.gooddata.com/cloudconnect/manual/date-and-time-format.html)
   - Parsování datumů ze String value pomocí DateFormat.parse()
   - operace s datumy:
       * getTime()
